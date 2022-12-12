@@ -20,5 +20,8 @@
   },
   "workspaces": [
     "services"
-  ]
+  ],
+  "dependencies": {
+    "stripe": "^11.3.0"
+  }
 }
